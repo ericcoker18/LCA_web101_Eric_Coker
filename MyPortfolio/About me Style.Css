@@ -1,0 +1,61 @@
+body {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    height: 300px;
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/29/13/03/internet-3116062_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.Flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+}
+
+h1 {
+    text-align: Center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 50px;
+}
+
+p {
+    width: 200px;
+    text-align: center;
+    margin: auto auto;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.hobbies {
+    text-align: center;
+    background-color: white;
+    
+    padding-right: 15px;
+    
+}
+
+.goals {
+    text-align: center;
+    background-color: white;
+   
+    
+}
+
+.one {
+    background-color: white;
+    
+    margin: auto auto;
+    
+}
+
+h2 {
+    font-size: 20px;
+}
+
+
+
